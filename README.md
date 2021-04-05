@@ -1,5 +1,7 @@
 # DataMining_BIT
 本项目为2021年春北京理工大学数据挖掘课程互评作业
+github地址:
+https://github.com/LeeAnteng/Data-Mining-BIT-2021
 
 ## 互评作业1
 
