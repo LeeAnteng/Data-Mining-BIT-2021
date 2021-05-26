@@ -20,6 +20,7 @@ https://github.com/LeeAnteng/DataMining-BIT-2021
 作业2选取的数据集为Oakland Crime Statistics 2011 to 2016
 
 主要内容：
+
 -对数据集进行处理，转换成适合进行关联规则挖掘的形式；
 -找出频繁模式；
 -导出关联规则，计算其支持度和置信度;
@@ -32,6 +33,7 @@ https://github.com/LeeAnteng/DataMining-BIT-2021
 ## 互评作业3
 作业3选取的数据集为Video Game Sales
 主要内容：
+
 基于这个数据集，可进行以下问题的探索：
 
 -电子游戏市场分析：受欢迎的游戏、类型、发布平台、发行人等；
